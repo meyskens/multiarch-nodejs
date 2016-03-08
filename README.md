@@ -1,4 +1,4 @@
-# multiarch-nodejs
+# multiarch-nodejs [![Build Status](https://travis-ci.org/meyskens/multiarch-nodejs.svg?branch=master)](https://travis-ci.org/meyskens/multiarch-nodejs)
 A multiarch Node.js Docker image based of the [multiarch/ubuntu-core](http://github.com/multiarch/ubuntu-core) image to be used on `armhf` and `amd64` systems (more coming soon)
 
 ##Usage
