@@ -1,0 +1,6 @@
+Unattended-Upgrade::Package-Blacklist {
+//      "vim";
+//      "libc6";
+//      "libc6-dev";
+//      "libc6-i686";
+};
